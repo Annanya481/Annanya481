@@ -1,4 +1,4 @@
-[![Header](/Images/Annanya Pandey.png)]
+![Header](/AnnanyaPandey.png)
 ### Hi there 👋
 
 <!--
