@@ -36,5 +36,5 @@ I am a full stack MERN developer. I love designing and building websites. I'm fr
 
 * Linux <img src="linux.svg" width="30px">
 
-### GitHub Stats <img src="https://media.giphy.com/media/t7sEnf5w7wJ1CEPyy7/giphy.gif" width="30px">
+### GitHub Stats <img src="https://media.giphy.com/media/t7sEnf5w7wJ1CEPyy7/giphy.gif" width="80px">
 ![Annanya's github stats](https://github-readme-stats.vercel.app/api?username=Annanya481&show_icons=true&theme=tokyonight)
