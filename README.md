@@ -6,7 +6,6 @@
 
 <!--
 **Annanya481/Annanya481** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -18,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a full stack MERN developer. I love designing and building websites. I'm from Bangalore, India and currently pursiong my BTech in Computer Science and Engineering with Specialization in Cyber Security.
