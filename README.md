@@ -17,4 +17,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a full stack MERN developer. I love designing and building websites. I'm from Bangalore, India and currently pursiong my BTech in Computer Science and Engineering with Specialization in Cyber Security.
+I am a full stack MERN developer. I love designing and building websites. I'm from Bangalore, India and currently pursuing my BTech in Computer Science and Engineering with Specialization in Cyber Security.
+### Tools and Technologies <img src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" width="80px">
+* MongoDB <img src="" width="">
+* ExpressJS <img src="" width="">
+* ReactJS <img src="" width="">
+* NodeJS <img src="" width="">
+* C, C++ <img src="" width="">
+* Python <img src="" width="">
+* Shell Scripting <img src="" width="">
+* Git <img src="" width="">
+* Linux <img src="" width="">
