@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am a full stack MERN developer. I love designing and building websites. I'm from Bangalore, India and currently pursuing my BTech in Computer Science and Engineering with Specialization in Cyber Security.
+
 ### Tools and Technologies <img src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" width="80px">
 * MongoDB <img src="mongodb.svg" width="30px">
 
@@ -34,3 +35,6 @@ I am a full stack MERN developer. I love designing and building websites. I'm fr
 * Git <img src="git.svg" width="30px">
 
 * Linux <img src="linux.svg" width="30px">
+
+### GitHub Stats
+[![Annanya's github stats](https://github-readme-stats.vercel.app/api?username=Annanya481)](https://github.com/anuraghazra/github-readme-stats)
