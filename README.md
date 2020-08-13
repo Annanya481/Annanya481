@@ -37,7 +37,7 @@ I am a full stack MERN developer. I love designing and building websites. I'm fr
 * Linux <img src="linux.svg" width="30px">
 
 ### GitHub Stats <img src="https://media.giphy.com/media/t7sEnf5w7wJ1CEPyy7/giphy.gif" width="80px">
-![Annanya's github stats](https://github-readme-stats.vercel.app/api?username=Annanya481&show_icons=true&theme=tokyonight)
+![Annanya's github stats](https://github-readme-stats.vercel.app/api?username=Annanya481&show_icons=true&theme=radical)
 
 ### Get in Touch With Me <img src="https://media.giphy.com/media/eidWuaG0u49rBin0EB/giphy.gif" width="80px">
 For any queries or collaborations you can find me at [<img src="linkedin.svg" width="30px">](https://www.linkedin.com/in/annanya-pandey-7a9043195/) or [<img src="instagram.svg" width="30px">](https://www.instagram.com/annanya_1120/).  Know more about me at [annanya.info](https://annanya.info)
