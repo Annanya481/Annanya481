@@ -19,12 +19,18 @@ Here are some ideas to get you started:
 -->
 I am a full stack MERN developer. I love designing and building websites. I'm from Bangalore, India and currently pursuing my BTech in Computer Science and Engineering with Specialization in Cyber Security.
 ### Tools and Technologies <img src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" width="80px">
-* MongoDB <img src="" width="">
-* ExpressJS <img src="" width="">
-* ReactJS <img src="" width="">
-* NodeJS <img src="" width="">
-* C, C++ <img src="" width="">
-* Python <img src="" width="">
-* Shell Scripting <img src="" width="">
-* Git <img src="" width="">
-* Linux <img src="" width="">
+* MongoDB <img src="mongodb.svg" width="">
+
+* ExpressJS <img src="javascript.svg" width="30px">
+
+* ReactJS <img src="react.svg" width="30px">
+
+* NodeJS <img src="node-dot-js.svg" width="30px">
+
+* C, C++ <img src="c.svg" width="30px">
+
+* Python <img src="python.svg" width="30px">
+
+* Git <img src="git.svg" width="30px">
+
+* Linux <img src="linux.svg" width="30px">
